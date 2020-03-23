@@ -1,0 +1,7 @@
+config/MMOCoreORB-Testing/org.eclipse.cdt.make.core.provider/make.run.linux.x86_64/cdt.launchMode=run
+config/MMOCoreORB-Testing/org.eclipse.cdt.make.core.provider/make.run.linux.x86_64/cdt.toolChain.id=gcc-x86_64-/usr/bin/gcc
+config/MMOCoreORB-Testing/org.eclipse.cdt.make.core.provider/make.run.linux.x86_64/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+config/MMOEngine/org.eclipse.cdt.make.core.provider/make.run.linux.x86_64/cdt.launchMode=run
+config/MMOEngine/org.eclipse.cdt.make.core.provider/make.run.linux.x86_64/cdt.toolChain.id=gcc-x86_64-/usr/bin/gcc
+config/MMOEngine/org.eclipse.cdt.make.core.provider/make.run.linux.x86_64/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+eclipse.preferences.version=1
